@@ -3,8 +3,8 @@ utiva cloud developers Git lessons
 ## Introduction on how to push from local environment to github 
 Downloaded Gitbash (https://git-scm.com/downloads)
 # configure gitbash 
-git config --global user.name "name". 
-  git config --global user.email "email"
+git config --global user.name "name. 
+git config --global user.email "email"
 # working with the configured environment 
 mkdir website 
   cd website 
